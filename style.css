@@ -231,3 +231,6 @@ nav a:hover {
     color: #38bdf8;
     margin-bottom: 10px;
 }
+.about {
+    background: red;
+}
